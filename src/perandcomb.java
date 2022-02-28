@@ -19,4 +19,4 @@ public class perandcomb {
         System.out.println("Combination of "+a+ " and "+b+" is "+c);
     }
 }
-//savita di,radha di,punita di, rachna, narayan bhai, me
+
